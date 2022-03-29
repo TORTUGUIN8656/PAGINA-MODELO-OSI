@@ -1,0 +1,84 @@
+<HTML>
+<HEAD>
+</HEAD>
+<TITLE>
+</TITLE>
+<BODY STYLE="background-color:#B8860B;">
+<CENTER>
+<TABLE STYLE="BORDER-LEFT-COLOR: RED; BORDER-BOTTOM-COLOR: RED; BORDER-TOP-COLOR: RED; BORDER-RIGHT-COLOR: RED" cellSpacing=2 cellPadding=2 width="65%" border=3></CENTER>
+		<Center>
+	<tr>
+		<th colspan="5"><font color="#00ff00" size="6" face="Times New Roman">MODELO OSI</font></th>
+	</tr> 
+	<tr>
+		<td align="center", rowspan="2">APLICACION</td>
+		<td align="center">DESCRIPCION</td>
+		<td align="center">TRANSMISION 
+		<td align="center">RECEPCION
+	</tr>
+	<tr>
+		<td align="center"> El nivel de aplicación o capa de aplicación es el séptimo nivel del modelo OSI y el cuarto de la pila TCP/IP.​ </td>
+		<td align="center">1
+		<td align="center">7
+	</tr>
+	<tr>
+		<td align="center", rowspan="2">PRESENTACION</td>
+		<td align="center">DESCRIPCION</td>
+		<td align="center", rowspan="2">2 
+		<td align="center", rowspan="2">6
+	</tr>
+	<tr>
+		<td align="center"> Garantiza que los datos tengan un formato utilizable y es donde se encriptan los datos.​ </td>
+	</tr>
+	<tr>
+		<td align="center", rowspan="2">SESION</td>
+		<td align="center">DESCRIPCION</td>
+		<td align="center", rowspan="2">3 
+		<td align="center", rowspan="2">5
+	</tr>
+	<tr>
+		<td align="center"> Mantiene las conexiones y es responsable de controlar puertos y sesiones.​ </td>
+	</tr>
+	<tr>
+		<td align="center", rowspan="2">TRANSPORTE</td>
+		<td align="center">DESCRIPCION</td>
+		<td align="center", rowspan="2">4 
+		<td align="center", rowspan="2">4
+	</tr>
+	<tr>
+		<td align="center"> Transmite datos mediante protocolos de transmision incluidos TC Y UDP.​ </td>
+	</tr>
+	<tr>
+		<td align="center", rowspan="2">RED</td>
+		<td align="center">DESCRIPCION</td>
+		<td align="center", rowspan="2">5 
+		<td align="center", rowspan="2">3
+	</tr>
+	<tr>
+		<td align="center"> Decide la ruta fisica que seguiran los datos.​ </td>
+	</tr>
+	<tr>
+		<td align="center", rowspan="2">ENLACE DE DATOS</td>
+		<td align="center">DESCRIPCION</td>
+		<td align="center", rowspan="2">6 
+		<td align="center", rowspan="2">2
+	</tr>
+	<tr>
+		<td align="center"> Se encarga de darle formato al dato que se va a transmitir , el peso que tiene el dato, la direccion del dato. </td>
+	</tr>
+	<tr>
+		<td align="center", rowspan="2">FISICA</td>
+		<td align="center">DESCRIPCION</td>
+		<td align="center", rowspan="2">7 
+		<td align="center", rowspan="2">1
+	</tr>
+	<tr>
+		<td align="center"> Define las caracteriticas fisicas de la red material como el cable coaxial, par trenzado, UTP.​ </td>
+	</tr>
+</TABLE>
+</CENTER>
+<H5>
+	<P> JONATHAN IBARRA
+	<P> 12/MARZO/2022
+</BODY>
+</HTML>
